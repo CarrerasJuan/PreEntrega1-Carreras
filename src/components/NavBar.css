@@ -1,0 +1,22 @@
+.allNav {
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: bisque;
+    
+}
+
+.barra {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.logo {
+    font-size: 2.3rem;
+    color: rgb(16, 153, 245);
+    user-select: none;
+    cursor: pointer;
+}
